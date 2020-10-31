@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nikita Lesnichenko</title>
+    <link>https://Ibraitas.github.io/My_Portfolio/post/</link>
+    <description>Recent content in Projects on Nikita Lesnichenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Ibraitas.github.io/My_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Restaurant in Paris</title>
+      <link>https://Ibraitas.github.io/My_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 30 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Ibraitas.github.io/My_Portfolio/post/project-1/</guid>
+      <description>Collecting data about Paris, its center, districts using Google geocoding API; Collecting Paris Restaurant Data Using the Foursquare API; Construction and analysis of heatmaps of Paris based on the density of the location of restaurants; Clustering the best points for a restaurant location in Paris using KMeans.    This Project’s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

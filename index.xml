@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Nikita Lesnichenko</title>
+    <link>https://Ibraitas.github.io/My_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Nikita Lesnichenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://Ibraitas.github.io/My_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Restaurant in Paris</title>
+      <link>https://Ibraitas.github.io/My_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 30 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Ibraitas.github.io/My_Portfolio/post/project-1/</guid>
+      <description>Collecting data about Paris, its center, districts using Google geocoding API; Collecting Paris Restaurant Data Using the Foursquare API; Construction and analysis of heatmaps of Paris based on the density of the location of restaurants; Clustering the best points for a restaurant location in Paris using KMeans.    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Ibraitas.github.io/My_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Ibraitas.github.io/My_Portfolio/contact/</guid>
+      <description>Contact me on these social media platforms:
+   Platform URL     LinkedIn: https://www.linkedin.com/in/ibraitas/   GitHub: https://github.com/Ibraitas    or on email: nlesnichenko01@gmail.com.</description>
+    </item>
+    
+  </channel>
+</rss>
