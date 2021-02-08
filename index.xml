@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Nikita Lesnichenko</title>
-    <link>https://example.com/</link>
+    <link>https://ibraitas.github.io/My_Portfolio/</link>
     <description>Recent content in Data Science Portfolio on Nikita Lesnichenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jan 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://ibraitas.github.io/My_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project V: Digit Recognizer</title>
-      <link>https://example.com/post/project-5/</link>
+      <link>https://ibraitas.github.io/My_Portfolio/post/project-5/</link>
       <pubDate>Sat, 30 Jan 2021 11:15:58 -0400</pubDate>
       
-      <guid>https://example.com/post/project-5/</guid>
+      <guid>https://ibraitas.github.io/My_Portfolio/post/project-5/</guid>
       <description>Normalized the values of each pixel; Reshaped data to 28x28x1 (on assignment); Augmented data using ImageDataGenerator; Built network using keras.Sequential to classify images.    This Project’s GitHub Repository</description>
     </item>
     
     <item>
       <title>Project IV: Petals to the Metal</title>
-      <link>https://example.com/post/project-4/</link>
+      <link>https://ibraitas.github.io/My_Portfolio/post/project-4/</link>
       <pubDate>Thu, 28 Jan 2021 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/post/project-4/</guid>
+      <guid>https://ibraitas.github.io/My_Portfolio/post/project-4/</guid>
       <description>Orginized images of different flowers from Kaggle dataset, labeled them; Picked up the right learning rate scheduler for network; Augmented data with custom rotation; Built network using keras.Sequential based on DenseNet201 to classify images.    This Project’s GitHub Repository</description>
     </item>
     
     <item>
       <title>Project III: Titanic competition</title>
-      <link>https://example.com/post/project-3/</link>
+      <link>https://ibraitas.github.io/My_Portfolio/post/project-3/</link>
       <pubDate>Mon, 18 Jan 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/project-3/</guid>
+      <guid>https://ibraitas.github.io/My_Portfolio/post/project-3/</guid>
       <description>Created models that predict whether a particular passenger on the Titanic survived; Engineered features from the Kaggle dataset with data about Titanic passengers; Optimized KNN, Logistic, Random Forest, Support Vector and XGB classifiers using GridsearchCV and ensemble them using VotingClassifier to reach the best model.    This Project’s GitHub Repository</description>
     </item>
     
     <item>
       <title>Project II: Housing prices competition</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://ibraitas.github.io/My_Portfolio/post/project-2/</link>
       <pubDate>Thu, 05 Nov 2020 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://ibraitas.github.io/My_Portfolio/post/project-2/</guid>
       <description>Cleared data from empty values; Engineered features; Dealed with outliers; Normalized continuous features; Stacked with StackingCVRegressor and blended regressors for predicting houses prices.    This Project’s GitHub Repository</description>
     </item>
     
     <item>
       <title>Project I: Restaurant in Paris</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://ibraitas.github.io/My_Portfolio/post/project-1/</link>
       <pubDate>Fri, 30 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://ibraitas.github.io/My_Portfolio/post/project-1/</guid>
       <description>Collecting data about Paris, its center, districts using Google geocoding API; Collecting Paris Restaurant Data Using the Foursquare API; Construction and analysis of heatmaps of Paris based on the density of the location of restaurants; Clustering the best points for a restaurant location in Paris using KMeans.    This Project’s GitHub Repository</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://ibraitas.github.io/My_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://ibraitas.github.io/My_Portfolio/contact/</guid>
       <description>Contact me on these social media platforms:
    Platform URL     LinkedIn: https://www.linkedin.com/in/ibraitas/   GitHub: https://github.com/Ibraitas    or on email: nlesnichenko01@gmail.com.</description>
     </item>
